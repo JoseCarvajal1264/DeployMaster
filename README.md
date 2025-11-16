@@ -66,4 +66,4 @@ DELETE /api/users/{id}  # Eliminar usuario
 ## 👨‍💻 Autor
 
 **Danny** - [Ptrickill](https://github.com/Ptrickill)
-
+**José** - (https://github.com/JoseCarvajal1264)
